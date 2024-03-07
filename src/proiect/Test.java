@@ -6,7 +6,7 @@ public class Test {
 		Rezultat rez=new Rezultat();
 		rez.start();
 		
-				
+			//jchajhgf	
 				
 		
 	}
