@@ -1,4 +1,4 @@
-package Proiect;
+package proiect;
 
 import java.util.Hashtable;
 
